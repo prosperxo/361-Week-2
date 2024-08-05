@@ -30,6 +30,7 @@ The user selects an image to delete.
 The system removes the image entry from the user_data.json file.
 
 
-**UML SEQUENCE DIAGRAM: **
+****UML SEQUENCE DIAGRAM: ****
+
 ![image](https://github.com/user-attachments/assets/4977e9e8-8fb6-41b6-8193-c157f0af208a)
 
