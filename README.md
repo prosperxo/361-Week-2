@@ -29,3 +29,6 @@ Deleting an Image:
 The user selects an image to delete.
 The system removes the image entry from the user_data.json file.
 
+
+**UML SEQUENCE DIAGRAM: **
+![image](https://github.com/user-attachments/assets/9664edf0-8b5d-4813-b502-c064a0f611be)
