@@ -3,6 +3,7 @@
 This system allows users to upload, view, and manage their images, storing the file locations in a JSON file.
 
 **Communication Contract:**
+
 Requesting Data from the System
 To request data from the system, you interact directly with the user_data.json file.
 
