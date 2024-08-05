@@ -31,4 +31,5 @@ The system removes the image entry from the user_data.json file.
 
 
 **UML SEQUENCE DIAGRAM: **
-![image](https://github.com/user-attachments/assets/9664edf0-8b5d-4813-b502-c064a0f611be)
+![image](https://github.com/user-attachments/assets/4977e9e8-8fb6-41b6-8193-c157f0af208a)
+
